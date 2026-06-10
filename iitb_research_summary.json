@@ -1,0 +1,88 @@
+{
+  "iit_bombay_research_summary": {
+    "departments": [
+      {
+        "name": "Aerospace Engineering",
+        "research_summary": "The Department conducts research in aerodynamics (including experimental, computational, and high-speed flows), propulsion systems, structural mechanics of aerospace structures, and flight dynamics and control. It also advances composite materials, aeroacoustics, and unmanned aerial vehicle design with applications in civilian and defense sectors."
+      },
+      {
+        "name": "Biosciences and Bioengineering",
+        "research_summary": "Research spans molecular and cell biology (host\u2013pathogen interactions, cellular immunology), biophysics, and structural biology using cryo-EM and NMR. It also covers bioinstrumentation and biomedical sensors, tissue engineering, biomaterials, and computational modeling for translational medicine."
+      },
+      {
+        "name": "Chemical Engineering",
+        "research_summary": "The Department's work includes process systems engineering, reaction engineering, and transport phenomena, with emphasis on multiphase and non-Newtonian flows. It also researches advanced separation processes, catalysis (homogeneous, heterogeneous, enzyme-based), and sustainable chemical processes for energy and environment."
+      },
+      {
+        "name": "Chemistry",
+        "research_summary": "Active areas include biological chemistry (bio-inspired catalysts, biomimetics), organometallic and supramolecular assemblies, and nanomaterials for energy storage and sensing. Inorganic research develops smart materials (conductive, magnetic), while organic chemistry advances asymmetric synthesis and chemical biology, aided by computational mechanistic studies."
+      },
+      {
+        "name": "Civil Engineering",
+        "research_summary": "Research covers water resources systems (reservoir operation, watershed management), hydrology, and risk analysis of floods/droughts using soft-computing under climate change scenarios. Structural engineering work includes health monitoring, computational geomechanics, sustainable pavements and concretes, and energy geomechanics for CO\u2082 sequestration."
+      },
+      {
+        "name": "Computer Science & Engineering",
+        "research_summary": "Focus areas include theoretical computer science (algorithms, complexity, formal methods), cryptography, combinatorics, and graph theory. Systems research spans machine learning and AI, distributed and edge computing, cybersecurity, and human\u2013computer interaction, with strong emphasis on data-driven methods."
+      },
+      {
+        "name": "Earth Sciences",
+        "research_summary": "Research in Earth Sciences spans structural geology and tectonics, metamorphic petrology, ore geology, and engineering geology, addressing crustal evolution and resource management. Geophysical investigations include seismology, exploration seismology, electromagnetic induction studies, geomagnetic analysis, signal processing, and numerical modelling of Earth's interior."
+      },
+      {
+        "name": "Economics",
+        "research_summary": "The Department of Economics focuses on rigorous quantitative and analytical research in microeconomics and macroeconomics, including monetary theory, banking, and institutional economics. It applies advanced econometric methods to inform development policy, public finance, and managerial decision-making."
+      },
+      {
+        "name": "Electrical Engineering",
+        "research_summary": "Research spans information and communication (coding, caching, signal processing), cyber-physical and wireless networks, and machine-learning for networked systems. Power and energy work focuses on smart grids, renewable integration, power electronics, HVDC systems, and high-voltage engineering."
+      },
+      {
+        "name": "Energy Science & Engineering",
+        "research_summary": "This interdisciplinary Department advances solar, wind, and bioenergy technologies, energy storage (batteries, supercapacitors), and fuel-cell research. It also studies energy systems modeling, policy, and economics for sustainable energy transitions."
+      },
+      {
+        "name": "Environmental Science & Engineering",
+        "research_summary": "Research areas include air and water quality modeling, pollutant fate and transport, waste-water treatment, and environmental microbiology. It also develops sustainable resource management strategies and techno-economic assessments for circular economy solutions."
+      },
+      {
+        "name": "Humanities & Social Sciences",
+        "research_summary": "Scholarship encompasses philosophy, literature, history, and languages, alongside interdisciplinary work in technology policy, ethics of emerging technologies, and organizational behavior. Research also delves into communication studies, creative writing, and cultural studies."
+      },
+      {
+        "name": "Industrial Engineering & Operations Research",
+        "research_summary": "Core research covers optimization (linear, nonlinear, stochastic), supply-chain and logistics modeling, and decision analytics. It also advances simulation, queuing theory, and human-machine systems for manufacturing and service operations."
+      },
+      {
+        "name": "Mathematics",
+        "research_summary": "Research spans algebra (number theory, automorphic forms), analysis (PDEs, harmonic analysis), geometry and topology, combinatorics, and probability theory. Applied areas include numerical analysis, control theory for PDEs, and statistical modeling."
+      },
+      {
+        "name": "Mechanical Engineering",
+        "research_summary": "Thermofluid research addresses turbulence, rotating and geophysical flows, magnetohydrodynamics, and heat-transfer technologies. Solid-mechanics work covers fracture, crystal plasticity, and metamaterials, while dynamics research spans robotics, autonomous vehicles, and multibody control."
+      },
+      {
+        "name": "Metallurgical Engineering & Materials Science",
+        "research_summary": "Faculty investigate processing and properties of metals, alloys, and advanced materials including biomaterials, ceramics, composites, and nanomaterials. Research includes computational materials science, additive manufacturing, and materials for energy and structural applications."
+      },
+      {
+        "name": "Physics",
+        "research_summary": "Research ranges from condensed-matter physics (quantum materials, superconductivity) and optics/photonics to high-energy physics and astrophysics. Experimental and theoretical groups study nanophotonics, ultrafast phenomena, soft matter, and biological physics."
+      }
+    ],
+    "centres": [
+      {
+        "name": "Centre for Climate Studies",
+        "research_summary": "The Centre for Climate Studies undertakes interdisciplinary research to advance scientific understanding of regional climate change, its environmental and socio-economic impacts, and develops effective mitigation and adaptation technologies. It offers integrated doctoral and master's programs, fostering collaboration across engineering, science, and policy domains to build climate-resilient solutions."
+      },
+      {
+        "name": "Centre for Machine Intelligence & Data Science (C-MInDS)",
+        "research_summary": "The Centre for Machine Intelligence & Data Science (C-MInDS) is a multidisciplinary hub uniting over 75 faculty from across IIT Bombay to advance foundational and applied AI and data science research. It provides specialized education and industry collaborations to train future leaders in intelligent technologies and machine learning applications."
+      },
+      {
+        "name": "Koita Centre for Digital Health (KCDH)",
+        "research_summary": "The Koita Centre for Digital Health (KCDH) drives academic programs, research, and industry partnerships to enhance digital health solutions, informatics, and telemedicine in India. Its focus areas include healthcare applications, data management, AI/ML analytics, computational biology, and public health policy for improved care delivery."
+      }
+    ]
+  }
+}

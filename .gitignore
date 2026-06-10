@@ -1,0 +1,28 @@
+# --- Secrets / credentials (NEVER commit) ---
+.env
+credentials.json
+token.json
+client_secret_*.json
+keys.txt
+
+# --- Private recipient / contact data (commit the *.example.csv instead) ---
+contacts.csv
+professors.csv
+
+# --- Run artifacts / logs ---
+email_sending_log.json
+*_results.json
+*_results.csv
+generated_emails.*
+html_emails/
+html_previews/
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# --- OS ---
+.DS_Store
